@@ -23,6 +23,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 body {
     background-color: pink;
     font-family: 'Comic Sans MS', serif;
+    line-height: 133%;
 }
 
 a {
